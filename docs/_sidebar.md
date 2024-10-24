@@ -3,4 +3,4 @@
   - [Get Started](README.md)
 - Official Pages
 
-  - [Test](test/test.md)
+  - [Test](test.md)
