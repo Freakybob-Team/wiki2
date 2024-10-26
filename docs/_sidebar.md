@@ -2,4 +2,4 @@
 
   - [Get Started](README.md)
 - Pages
-  - [WIP](404)
+  - [Freakybob](freakybob.md)
